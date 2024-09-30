@@ -35,4 +35,7 @@ npm test
 If you have any questions, you can contact me at:
 - GitHub: [chxdior](https://github.com/chxdior)
 - Email: christianguan123@gmail.com
+
+## Video Example
+A video of how this works can be found in the screenrecording folder 
   
